@@ -1,3 +1,10 @@
 
 Donald Norman (Professor de ciência cognitiva), (Autor de vários livros).
-Ele era vice presidente de tecnologia avança na apple em 93 quando criou o termo UX, na época nao tinha nenhum termo que representava o que ele fazia.
+    Ele era vice presidente de tecnologia avança na apple em 93.
+
+O termo Experiência do Usuário foi apresentado pela primeira vez por Don Norman, em meados de 1990. O próprio Norman comentou em uma entrevista:
+    "Eu inventei o termo, porque achava que interface do usuário e usabilidade eram muito restritos, eu queria cobrir todos os aspectos da 
+        experiência de uma pessoa com o sistema, incluindo design industrial, gráficos, a interface, a interação física e o manual."
+
+
+"É o modo que você experiencia o mundo, é o modo como você experiencia sua vida, é o modo que você experiencia um serviço." - Don Norman
