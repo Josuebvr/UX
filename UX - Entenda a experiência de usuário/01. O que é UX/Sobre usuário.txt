@@ -1,0 +1,9 @@
+Abaixo estão alguns exemplos de usuários
+
+Ponte entre dois sistemas: É possível desenvolver um programa que funciona como uma ponte entre dois sistemas com linguagens diferentes, comunicação entre Java e dotNET, por exemplo.
+
+Bichinho de estimação: Além do app comentado em aula, uma coleira e uma caminha de pet são exemplos da experiência voltada para o pet.
+
+Pessoa: Aqui a mais direta quando pensamos em UX.
+
+Tem que pensar no que o usuário vai estar pensando quando usar o produto, o que vai estar sentindo.
