@@ -1,0 +1,43 @@
+O que é o 5W2H 
+
+    What (o que?) 
+    Why (por que?)
+    Where (onde?)
+    When (quando?)
+    Who (quem?)
+    How (como?)
+    How much (quanto?)
+
+
+No último vídeo foi falado sobre como pensar em experiências, usando como exemplo a ferramenta do duplo diamante. Essa é uma ferramenta usada 
+por pessoas que trabalham com UX para construir projetos e soluções. Seu nome de duplo diamante vem do formato do diagrama que é constituído por 
+dois losangos divididos em duas metades. Cada losango representa uma fase do projeto e cada metade representa uma subdivisão.
+
+    É uma imagem com dois losangos, que representam a ferramenta diamante duplo, mostrando suas fases e atividades, onde o primeiro losango 
+    apresenta etapas de Pesquisa e Síntese do projeto, o outro mostra as etapas de Ideação e Implementação, com suas subdivisões internas.
+
+
+
+                                                            Descobrir
+
+É uma imagem com um triângulo deitado, que descreve o texto das ações “Descobrir”, “Pesquisa”, “Divergindo”, e detalhando as etapas 
+“Rasgue o breve”, “Agrupe tópicos", “Pesquisa primária”, “Pesquisa secundária”.
+
+    A fase de descoberta é responsável pela identificação do problema a ser solucionado. Neste momento é importante se colocar no 
+    lugar da pessoa que tem esse problema e entender sobre o contexto dela.
+
+    Essa fase é focada em divergir ideias, entendendo o máximo do público que vai usar o produto que está sendo desenvolvido.
+
+    Para que as questões discutidas sejam relevantes para o projeto e para serem debatidas, é necessário realizar nessa fase 
+    do projeto o levantamento de dados, conversas com pessoas e pesquisa de mercado.
+
+
+
+                                                            Sintetizar
+
+É uma imagem com um triângulo deitado, que descreve o texto das ações “Definir”, “Síntese”, “COnvergindo”, e detalhando as etapas “Insights”, 
+“Temas", “Áreas de oportunidade”, “HMW”.
+
+    Na etapa de convergir é necessário analisar e filtrar as ideias que surgiram no momento de descoberta para convergirem em projetos palpáveis. 
+    Esse momento do duplo diamante é responsável por definir qual tipo de projeto ou solução será apresentada através de brainstorms para geração 
+    de alternativas.
